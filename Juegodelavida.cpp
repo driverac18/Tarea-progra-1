@@ -157,8 +157,8 @@ public:
 // =======================
 int main() {
     // Dimensiones de la pantalla/tablero
-    int total_filas = 25;      // snake_case
-    int total_columnas = 40;   // snake_case
+    int total_filas = 25;      
+    int total_columnas = 40;   
     
     system("cls"); // Limpia la consola antes de iniciar
     
